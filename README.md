@@ -16,6 +16,6 @@
 ### Other Features
 - [x] Stats for averages in reciept
 - [x] Layout adaptability depending on screen size (Mac vs IPhone)
-- [x] Buttons for home and cart in nav
+- [x] Buttons to go to home and cart pages at top of the website always
 - [x] Pop-up alerts
 - [x] Loading and error screens
